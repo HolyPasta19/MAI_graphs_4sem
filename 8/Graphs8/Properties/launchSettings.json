@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graphs8": {
+      "commandName": "Project",
+      "commandLineArgs": "-m map_008.txt -n 8 16 -d 4 20"
+    }
+  }
+}
