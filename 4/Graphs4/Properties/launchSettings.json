@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graphs4": {
+      "commandName": "Project",
+      "commandLineArgs": "-m matrix_t4_010.txt -s\r\n"
+    }
+  }
+}
