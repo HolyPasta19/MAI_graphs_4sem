@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graphs6": {
+      "commandName": "Project",
+      "commandLineArgs": "-m matrix_t6_009.txt -n 8 -t"
+    }
+  }
+}
