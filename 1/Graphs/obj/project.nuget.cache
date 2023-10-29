@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngwoMQHGDxBnBpxs1y3Ol1ZcQMxuJfF7Pyx1MjQM57L9+kwQgvO4QzYSqMHZUTe0SQMlb5IACQpJwLXAXq7pAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zakha\\OneDrive\\Рабочий стол\\MAI\\graphs\\c#\\Graphs\\Graphs\\Graphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakha\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\greenpipes\\4.0.1\\greenpipes.4.0.1.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\zakha\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
